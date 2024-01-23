@@ -1,0 +1,14 @@
+[
+    {
+        "productsToPurchase": "['Blackberry', 'Samsung Note 8','iphone X']"
+    },
+    {
+        "productsToPurchase": "['Nokia Edge', 'Samsung Note 8','iphone X']"
+    },
+    {
+        "productsToPurchase": "['Nokia Edge', 'Blackberry','iphone X']"
+    },
+    {
+        "productsToPurchase": "['Blackberry','iphone X']"
+    }
+]
